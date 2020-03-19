@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    r_socks (0.1.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  r_socks (~> 0.1.1)
+
+BUNDLED WITH
+   2.1.4
