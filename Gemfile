@@ -1,3 +1,3 @@
 source "https://rubygems.org"
 
-gem 'r_socks', '~> 0.1.4'
+gem 'r_socks', '~> 0.1.5'
